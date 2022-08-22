@@ -1,4 +1,7 @@
 # clogger
+
+# WARNING: this repo is outdated see [nlog](https://github.com/Neutron17/nlog)
+
 basic logger in c
 
 ## Example
